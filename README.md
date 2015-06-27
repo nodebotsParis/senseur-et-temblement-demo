@@ -1,3 +1,5 @@
+#nodebots day 2015
+
 # senseurs et tremblements la demo
 
 demo basique de récupération des donnée d'un module de distance a ultrason HC - SR04 + display sur une page web via socket.io
@@ -6,11 +8,11 @@ demo basique de récupération des donnée d'un module de distance a ultrason HC
 
 ### hard 
 
-liez les pin trig et echo ensemble avec un strap et reliez les au pin 7 de l'arduino 
-Vcc => 5v 
-Gnd => Gng
+liez les pin trig et echo ensemble avec un strap et reliez les au pin 7 de l'arduino   
+Vcc => 5v  
+Gnd => Gng  
 
-et c'est parti pour le 
+et c'est parti pour le soft
 
 ### soft
 
@@ -34,3 +36,4 @@ puis visitez [cette page](http://localhost:4000)
 - lire le code ```sonar.js``` pour le serveur et ```/public/js/main.js``` pour le client
 - lisser les valeurs du sonar
 - déchaînez votre imagination
+
