@@ -1,6 +1,4 @@
-#nodebots day 2015
-
-# senseurs et tremblements la demo
+# Senseurs et tremblements la demo
 
 demo basique de récupération des donnée d'un module de distance a ultrason HC - SR04 + display sur une page web via socket.io
 
