@@ -1,6 +1,6 @@
 {
-  "name": "sonar",
-  "version": "1.0.0",
+  "name": "senseurs-et-tremblements-demo",
+  "version": "1.0.1",
   "description": "test for sonar in j5",
   "main": "sonar.js",
   "dependencies": {
@@ -12,6 +12,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "gorhgorh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodebotsParis/senseurs-et-tremblements-demo/"
+  },
+  "keywords": [
+    "demo",
+    "nodebots",
+    "sensors"
+  ]
 }

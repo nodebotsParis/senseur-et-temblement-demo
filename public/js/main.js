@@ -9,7 +9,6 @@ socket.on('proximity', function (data) {
   $('#distCont').html(data);
 });
 
-
 /**
  * set the circle scale and color
  * @param {int} data [value from socket.io (distance)]
